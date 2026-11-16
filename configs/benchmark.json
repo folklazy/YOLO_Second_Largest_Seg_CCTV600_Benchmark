@@ -1,0 +1,11 @@
+{
+  "study_id": "yolo_cctv600_scaling",
+  "tier": "second_largest",
+  "models": [
+    "yolo26l-seg.pt",
+    "yolo11l-seg.pt",
+    "yolov9c-seg.pt",
+    "yolov8l-seg.pt"
+  ],
+  "common_config": "../YOLO_Instance_Segmentation_CCTV600_Scaling_Study/configs/study.json"
+}

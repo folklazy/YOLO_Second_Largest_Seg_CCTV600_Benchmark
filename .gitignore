@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+outputs/
+logs/
+timing/
+predictions/
+config.local.json
+*.pt
+*.pth
+*.jpg
+*.png
+*.npz
+*.jsonl
+!metrics/plots/*.png

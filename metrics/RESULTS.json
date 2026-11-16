@@ -1,0 +1,73 @@
+{
+  "run_id": "cctv600-20261116T073208561699Z",
+  "models": [
+    {
+      "model": "yolo26l-seg.pt",
+      "membership": null,
+      "primary": null,
+      "active_timing": null,
+      "groups": null,
+      "confidence_curve": null,
+      "checkpoint_sha256": "636024306410afa1732692322fba57d22ea2b1c2f07613fcee131a93d7dd380c",
+      "scientific_binding": "aa621de9ab1ca797a8e103df3bfb21f87307fc436f4701da7b094df33e8a68eb",
+      "timing": {
+        "clean_rounds": 0,
+        "expected_rounds": 3,
+        "measured_images": 0,
+        "state": "INCOMPLETE",
+        "primary": null
+      }
+    },
+    {
+      "model": "yolo11l-seg.pt",
+      "membership": null,
+      "primary": null,
+      "active_timing": null,
+      "groups": null,
+      "confidence_curve": null,
+      "checkpoint_sha256": "cabe90049795dfc9a370b7934d6dec7f6b9e44a20e573b0ff81b7e205512c872",
+      "scientific_binding": "aa621de9ab1ca797a8e103df3bfb21f87307fc436f4701da7b094df33e8a68eb",
+      "timing": {
+        "clean_rounds": 0,
+        "expected_rounds": 3,
+        "measured_images": 0,
+        "state": "INCOMPLETE",
+        "primary": null
+      }
+    },
+    {
+      "model": "yolov9c-seg.pt",
+      "membership": null,
+      "primary": null,
+      "active_timing": null,
+      "groups": null,
+      "confidence_curve": null,
+      "checkpoint_sha256": "73c2ac85148fa6fa560ef9933f8931e40d0dbc8f8c7c0a6d165145b6e5713565",
+      "scientific_binding": "aa621de9ab1ca797a8e103df3bfb21f87307fc436f4701da7b094df33e8a68eb",
+      "timing": {
+        "clean_rounds": 0,
+        "expected_rounds": 3,
+        "measured_images": 0,
+        "state": "INCOMPLETE",
+        "primary": null
+      }
+    },
+    {
+      "model": "yolov8l-seg.pt",
+      "membership": null,
+      "primary": null,
+      "active_timing": null,
+      "groups": null,
+      "confidence_curve": null,
+      "checkpoint_sha256": "ca3ec94c445aeaf79c2b57982fb451060f18a7561e2c20b4d26bb9dc1fcabf93",
+      "scientific_binding": "aa621de9ab1ca797a8e103df3bfb21f87307fc436f4701da7b094df33e8a68eb",
+      "timing": {
+        "clean_rounds": 0,
+        "expected_rounds": 3,
+        "measured_images": 0,
+        "state": "INCOMPLETE",
+        "primary": null
+      }
+    }
+  ]
+}

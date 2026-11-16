@@ -1,0 +1,2 @@
+# Reuse the compatible workspace environment. Exact versions in the study environment record.
+-r ../YOLO_Instance_Segmentation_CCTV600_Scaling_Study/requirements.txt
