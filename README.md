@@ -19,6 +19,8 @@ Clone Master และ tier repositories ไว้ใน workspace เดีย�
 .venv/bin/python YOLO_Second_Largest_Seg_CCTV600_Benchmark/src/benchmark.py status
 ```
 
+สถานะปิดรอบที่รวม timing continuation ให้อ่าน STATUS.md และ RESULTS_SUMMARY_TH.md ของ repo นี้ ส่วนคำสั่ง status ข้างต้นอ่าน original execution record ที่เก็บไว้ตามประวัติ
+
 คำสั่ง launch จาก tier entry จำกัด scope ที่กลุ่มนี้ ส่วน Master entry เปิดคิวทั้ง study ตามลำดับขนาด ดูคำสั่ง prepare, launch และ reconcile ที่ Master README
 
 Raw predictions, logs, per-image CSV และ fixed-sample gallery เก็บใน outputs ของ tier ส่วน metrics/RESULTS.json และ TIER_RESULTS.csv เป็นสถิติรวมสำหรับตรวจต่อ
